@@ -1,5 +1,5 @@
 {
-  "name": "redux-simple-starter",
+  "name": "redux-youtube",
   "version": "1.0.0",
   "description": "Simple youtube searcher",
   "main": "index.js",
@@ -33,6 +33,7 @@
     "react-redux": "^4.0.0",
     "react-router": "^2.0.1",
     "redux": "^3.0.4",
+    "express": "^4.13.4",
     "youtube-api-search": "0.0.5"
   }
 }
